@@ -73,5 +73,5 @@ O sistema permite ao usuário realizar as seguintes operações:
 3. No terminal ou prompt de comando, execute:
 
 ```bash
-python sistema_bancario.py
+python banco.py
 ```
